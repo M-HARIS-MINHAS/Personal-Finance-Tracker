@@ -25,9 +25,13 @@ The **Personal Finance Tracker** is a user-friendly web application built with *
    cd personal-finance-tracker
    
 Install required dependencies:
+
+
 pip install streamlit pandas numpy matplotlib
 
 Run the app:
+
+
 streamlit run app.py
 
 How to Use
