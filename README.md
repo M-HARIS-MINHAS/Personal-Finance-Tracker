@@ -23,43 +23,32 @@ The **Personal Finance Tracker** is a user-friendly web application built with *
    ```bash
    git clone https://github.com/yourusername/personal-finance-tracker.git
    cd personal-finance-tracker
-   
-Install required dependencies:
+   ```
 
-bash
-Copy
-Edit
-pip install streamlit pandas numpy matplotlib
-Run the app:
+2. Install required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-bash
-Copy
-Edit
-streamlit run app.py
-How to Use
-Enter your monthly income.
-Fill in your expense categories.
-Visualize your expenses with bar charts and pie charts.
-Set a savings goal and calculate how long it will take to achieve it.
-Get helpful saving tips to improve your financial habits.
+3. Run the app:
+   ```bash
+   streamlit run app.py
+   ```
 
-How to Use
-Enter your monthly income.
-Fill in your expense categories.
-Visualize your expenses with bar charts and pie charts.
-Set a savings goal and calculate how long it will take to achieve it.
-Get helpful saving tips to improve your financial habits.
-Screenshots
-Feature	Screenshot
-Income and Expenses	
-Expense Chart	
-Savings Goal	
-Contributing
+## How to Use
+1. Enter your **monthly income**.
+2. Fill in your **expense categories**.
+3. Visualize your expenses with **bar charts and pie charts**.
+4. Set a **savings goal** and calculate how long it will take to achieve it.
+5. Get helpful **saving tips** to improve your financial habits.
+
+
+## Contributing
 Contributions are welcome! If you have ideas to improve this app, feel free to submit a pull request.
 
-License
-This project is licensed under the MIT License.
+## License
+This project is licensed under the **MIT License**.
 
-Credits
-Made with ❤️ by M Haris
-Built using Streamlit
+## Credits
+Made with ❤️ by **M Haris**  
+Built using [Streamlit](https://streamlit.io)
