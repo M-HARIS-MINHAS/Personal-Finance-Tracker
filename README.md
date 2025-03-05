@@ -26,13 +26,22 @@ The **Personal Finance Tracker** is a user-friendly web application built with *
    
 Install required dependencies:
 
-
+bash
+Copy
+Edit
 pip install streamlit pandas numpy matplotlib
-
 Run the app:
 
-
+bash
+Copy
+Edit
 streamlit run app.py
+How to Use
+Enter your monthly income.
+Fill in your expense categories.
+Visualize your expenses with bar charts and pie charts.
+Set a savings goal and calculate how long it will take to achieve it.
+Get helpful saving tips to improve your financial habits.
 
 How to Use
 Enter your monthly income.
